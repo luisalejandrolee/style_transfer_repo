@@ -1,0 +1,6 @@
+predictor.py
+setup.py
+style_transfer.egg-info/PKG-INFO
+style_transfer.egg-info/SOURCES.txt
+style_transfer.egg-info/dependency_links.txt
+style_transfer.egg-info/top_level.txt
